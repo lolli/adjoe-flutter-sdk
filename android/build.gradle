@@ -25,7 +25,7 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
-    namespace "io.adjoe.sdk"
+    namespace "io.adjoe.sdk.flutter"
     compileSdkVersion 33
 
     defaultConfig {
